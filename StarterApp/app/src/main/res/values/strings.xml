@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StarterApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Unlock</string>
+    <string name="previous">Submit</string>
+
+    <string name="hello_first_fragment">Welcome to the App! The app is locked!</string>
+    <string name="button1_text">1</string>
+    <string name="button2_text">2</string>
+    <string name="button3_text">3</string>
+    <string name="button4_text">4</string>
+    <string name="passcode_text"></string>
+
+</resources>
